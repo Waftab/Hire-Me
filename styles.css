@@ -1,0 +1,55 @@
+body {
+    background: url("https://i.pinimg.com/originals/41/d0/07/41d0072d07844f4609b73586d31306a3.jpg");
+}
+
+h1 {
+    color: #660000;
+}
+
+h1 {
+    font-family: 'Train One', cursive;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    color: #ffffff;
+}
+
+p {
+    font-family: 'Zilla Slab Highlight', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.things {
+    font-family: 'Monoton', cursive;
+}
+
+.things {
+    color: #00ffff;
+}
+
+.things {
+    font-size: 30px;
+}
+
+li {
+    color: #ffff00;
+}
+
+li {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+li {
+    font-size: 30px;
+}
